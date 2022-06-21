@@ -2,8 +2,8 @@
 title: Security Patch 6/20/22
 description: 
 published: true
-date: 2022-06-21T03:15:06.219Z
-tags: 
+date: 2022-06-21T03:17:01.736Z
+tags: vps, security patch, windows os, windows update
 editor: markdown
 dateCreated: 2022-06-21T03:15:06.219Z
 ---
