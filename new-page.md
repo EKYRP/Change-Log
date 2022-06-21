@@ -2,7 +2,7 @@
 title: 06/21/2022 - FiveM Server Updates
 description: FiveM Server Updates
 published: true
-date: 2022-06-21T20:40:48.714Z
+date: 2022-06-21T20:41:13.049Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-21T20:38:45.021Z
