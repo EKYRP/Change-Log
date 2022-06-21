@@ -1,15 +1,15 @@
 ---
-title: Untitled Page
-description: 
+title: 06/21/2022 - FiveM Server Updates
+description: FiveM Server Updates
 published: true
-date: 2022-06-21T20:38:45.021Z
+date: 2022-06-21T20:40:48.714Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-21T20:38:45.021Z
 ---
 
-# Header
-06212022
+# FiveM Server Updates
+06-21-2022
 Saylersville Sandy Shores  Harmony  Grapeseed
 
 Ground, Brush, Tree, & Area retexture removed in favor of FPS increase, file size carried to much weight on server.
