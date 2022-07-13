@@ -1,8 +1,8 @@
 ---
-title: Security Patch 07/11/2022
+title: Security Patch 07/12/2022
 description: 
 published: true
-date: 2022-07-13T04:36:15.886Z
+date: 2022-07-13T04:38:05.639Z
 tags: security patch, vps, windows os, windows update
 editor: markdown
 dateCreated: 2022-07-12T03:22:10.677Z
